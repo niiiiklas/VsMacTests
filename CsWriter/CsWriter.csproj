@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Logic\" />
+    <Folder Include="InputArgs\" />
+    <Folder Include="InputArgs\Argument\" />
+    <Folder Include="Module\" />
+    <Folder Include="Module\Help\" />
+    <Folder Include="Module\CsToJson\" />
+    <Folder Include="Util\" />
+  </ItemGroup>
+</Project>
